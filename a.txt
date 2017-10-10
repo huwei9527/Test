@@ -32,4 +32,4 @@ ada
 aa
 
 master 1 (new 1)
-master 2 (a.txt)
+master 2 (new 2)
